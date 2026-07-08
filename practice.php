@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>ddd
-        Practicing PHP for exams
+        Practicing PHP ford exams
     </title>
 </head>
 <body>
