@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>dd
+    <title>ddd
         Practicing PHP for exams
     </title>
 </head>
