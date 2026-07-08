@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
+<head>d
     <title>ddd
         Practicing PHP ford exams
     </title>
