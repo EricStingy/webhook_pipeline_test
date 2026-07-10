@@ -3,9 +3,9 @@
 <!DOCTYPE html>
 <html>
 <head>dddddddddd
-    <title>ddddfasfsdfadfdddd
+    <title>dfdfdf
         Practicing PHP ford exadddddms
-    </title>dd
+    </title>dddfdf
 </head>
 <body>
     <form method="POST" action="">
