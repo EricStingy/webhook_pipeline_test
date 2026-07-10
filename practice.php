@@ -5,7 +5,7 @@
 <head>dddddddddd
     <title>ddd
         Practicing PHP ford exadddddms
-    </title>daldkfjalksjdflkasdjflksjdldddkfjsdlkfjsdlkfjsdlkfjsdlkfjdlsjfdsdfd
+    </title>dd
 </head>
 <body>
     <form method="POST" action="">
